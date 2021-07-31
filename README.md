@@ -1,9 +1,9 @@
 # TerrariaServerAutoScript
 A script to automate the set up of a terraria server
 
-chmod +x TerrariaServerSetup.sh
-sudo ./TerrariaServerSetup.sh
- ./terrarialaunch.sh
+1. chmod +x TerrariaServerSetup.sh
+2. 2. sudo ./TerrariaServerSetup.sh
+3. ./terrarialaunch.sh
 
 
 To DO 
